@@ -24,8 +24,10 @@
   "dependencies": {
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18",
+    "@types/js-cookie": "^3.0.4",
     "clsx": "^2.0.0",
-    "next": "13.4.13-canary.15",
+    "js-cookie": "^3.0.5",
+    "next": "13.4.20-canary.39",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
